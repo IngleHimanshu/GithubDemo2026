@@ -1,1 +1,2 @@
-this is third sample file
+this is third sample file 
+hello there
